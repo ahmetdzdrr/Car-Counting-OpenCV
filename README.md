@@ -22,6 +22,9 @@ YOLOv8 Model Architecture
 
 ![a280bbfb](https://github.com/ahmetdzdrr/Car-Counting-OpenCV/assets/117534684/cc3c7244-9907-4e66-81ce-459dfaef43a7)
 
+****************************************************************************
+****************************************************************************
+
 What Are The Enhacements of all YOLO alghoritms?
 
 As there are no official results from the paper, we are going to go through the official YOLO comparison plot from the repository. 
@@ -31,6 +34,9 @@ As there are no official results from the paper, we are going to go through the 
 As we can observe from the plot, YOLOv8 has more parameters than its predecessors, such as YOLOv5, but fewer parameters than YOLOv6. It offers about 33% more mAP for n-size models and generally a greater mAP across the board. 
 From the second graph, we can observe faster inference time amongst all the other YOLO models. This is understandable and elegant. 
 Within YOLOv8, we have different model sizes such as yolov8- n - nano, s - small, m - medium, l - large, and x - extra large. 
+
+****************************************************************************
+****************************************************************************
 
 Which weight is better version in YOLOv8 alghoritm?
 
