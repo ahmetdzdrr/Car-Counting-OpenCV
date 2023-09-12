@@ -77,7 +77,7 @@ To use the code in this project, follow these steps:
 
 2. Install the required Python dependencies:
     ```bash
-    pip install opencv-python numpy matplotlib
+    pip install -r requirements.txt
 
 3. Set up the SORT library by following the instructions in the SORT repository.
 
