@@ -42,5 +42,43 @@ Which weight is better version in YOLOv8 alghoritm?
 
 ![db2573fc](https://github.com/ahmetdzdrr/Car-Counting-OpenCV/assets/117534684/48bed0ce-a9c7-4b6c-bdd4-486c338fff0d)
 
+****************************************************************************
+****************************************************************************
 
+## Table of Contents
 
+- [Requirements](#requirements)
+- [Usage](#usage)
+- [Code Description](#code-description)
+- [License](#license)
+
+## Requirements
+
+Before running the code, make sure you have the following dependencies installed:
+
+- Python 3.x
+- OpenCV (`opencv-python`)
+- NumPy (`numpy`)
+- Matplotlib (`matplotlib`)
+- [SORT library](https://github.com/abewley/sort)
+- [YOLO library](https://github.com/ultralytics/yolov5) (Ultralytics YOLO)
+
+You can install the required Python packages using `pip` and set up the SORT and YOLO libraries by following the provided links.
+
+## Usage
+
+To use the code in this project, follow these steps:
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/your-username/vehicle-tracking.git
+   cd vehicle-tracking
+
+2. Install the required Python dependencies:
+    ```bash
+    pip install opencv-python numpy matplotlib
+
+3. Set up the SORT library by following the instructions in the SORT repository.
+
+The SORT library is essential for multi-object tracking in this project. Please refer to the SORT repository's documentation for installation and usage details.
